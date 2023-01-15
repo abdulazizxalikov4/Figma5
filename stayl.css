@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.sec1 .card h1{
+    font-style: initial;
+    font-size: 100px;
+}
+
+.secc i{
+    font-size: 68px;
+}
+
+.sec2{
+    background: #F1EBE4;
+}
+
+.sec3{
+    background: #E5E5E5;
+}
+
+.sec3 button{
+    width: 435px;
+    height: 142px;
+    background: #CAB5EB;
+    border: none;
+}
+
+.sec4{
+    background: #F1EBE4;
+}
+
+.sec4 button{
+    border-radius: 15px;
+}
+
+.sec5{
+    background: #E5E5E5;
+}
+
+.sec6{
+    background: #FFDB5B;
+}
+
+.sec7 h1{
+    font-size: 125px;
+}
+
+.sec8{
+    background: #F1EBE4;
+}
+
+.sec9{
+    background: #E5E5E5;
+}
+
+.sec10{
+    background: #CAB5EB;
+}
